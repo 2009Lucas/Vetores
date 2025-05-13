@@ -1,5 +1,4 @@
 # Vetores
-# questao 1
 ```java
 1. Crie um vetor de 10 elementos inteiros. Leia os valores e exiba quantos deles são maiores que 100.
 Scanner ler = new Scanner(System.in);
@@ -19,7 +18,7 @@ Scanner ler = new Scanner(System.in);
     }
     
 }
-# questao 2
+
 2. Crie um vetor de 10 elementos inteiros. Exiba a soma de todos os valores armazenados no vetor.
  Scanner ler = new Scanner(System.in);
         int[]v = new int [10];
